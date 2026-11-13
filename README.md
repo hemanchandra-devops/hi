@@ -15,7 +15,7 @@ Building scalable cloud infrastructure, automating software delivery, and implem
   <a href="mailto:hemanchandra701@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://github.com/hemanchandra-devops">
+  <a href="https://github.com/hemanchandra-devops/hi">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
   </a>
 </p>
@@ -133,7 +133,7 @@ https://www.linkedin.com/in/heman-chandra
 
 💻 GitHub
 
-https://github.com/hemanchandra-devops
+https://github.com/hemanchandra-devops/hi
 
 </p>
 
